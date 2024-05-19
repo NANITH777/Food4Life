@@ -61,4 +61,12 @@ This project is a comprehensive Restaurant Menu Management System developed usin
 
 5. **Daily Operations**:
    - Generate reports and manage daily operations using the provided methods to track production, sales, and inventory.
+  
+
+### Pages
+
+<div align="center"
+   <img width="257" alt="login" src="https://github.com/NANITH777/Food4Life/assets/109669139/0088219e-66fd-4078-88a0-ca9836b58fe8">
+</div>
+   
 
