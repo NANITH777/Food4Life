@@ -65,8 +65,14 @@ This project is a comprehensive Restaurant Menu Management System developed usin
 
 ### Pages
 
-<div align="center"
+<div align="center">
    <img width="257" alt="login" src="https://github.com/NANITH777/Food4Life/assets/109669139/0088219e-66fd-4078-88a0-ca9836b58fe8">
+   <img width="400" alt="Acceuil" src="https://github.com/NANITH777/Food4Life/assets/109669139/18cda5b1-6d47-4050-8f3c-0ddf34472951">
+   <img width="400" alt="Yemek Ekle" src="https://github.com/NANITH777/Food4Life/assets/109669139/65ce8f06-d0eb-4103-a66b-8a5123995c39">
+   <img width="400" alt="yemek Guncelle" src="https://github.com/NANITH777/Food4Life/assets/109669139/1c524ea4-a077-4f74-a69f-abc9952db9df">
+   <img width="400" alt="siparis" src="https://github.com/NANITH777/Food4Life/assets/109669139/6a87ea9c-bcb6-4d44-8bd2-4ead252f5473">
+   <img width="400" alt="fatura" src="https://github.com/NANITH777/Food4Life/assets/109669139/5baa7c24-f3e8-4c3d-bee8-e78f650c9022">
+   <img width="400" alt="listele" src="https://github.com/NANITH777/Food4Life/assets/109669139/fc07f9a3-1653-4e6d-b9ae-43690ed19b79"> 
 </div>
    
 
